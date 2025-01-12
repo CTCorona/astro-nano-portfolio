@@ -1,9 +1,9 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "Luku Lake"
+description: "Corporate website for a company based in Spain."
+date: "Mar 18 2021"
+demoURL: "https://lukulake.ctcc.dev"
+repoURL: "https://github.com/CTCorona/lukulake-svelte"
 ---
 
 ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
@@ -11,17 +11,6 @@ repoURL: "https://github.com/markhorn-dev/astro-sphere"
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
 It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
-
-## 🚀 Deploy your own
-
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
 
 ## 📋 Features
 

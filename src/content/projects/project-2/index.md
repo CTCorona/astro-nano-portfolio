@@ -1,8 +1,8 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "Mar 26 2024"
-demoURL: "https://astro-nano-demo.vercel.app"
+title: "Lúcid Website"
+description: "Corporate website for the company Lúcid Design Agency."
+date: "Mar 26 2020"
+demoURL: "https://lucid-website.ctcc.dev"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
 
