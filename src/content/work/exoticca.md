@@ -1,8 +1,10 @@
 ---
-company: "Exoticca"
-role: "Software Engineer"
-dateStart: "08/21/2022"
-dateEnd: "Current"
+company: 'Exoticca'
+role: 'Software Engineer'
+dateStart: '08/21/2022'
+dateEnd: 'Current'
 ---
 
-Led analytics migration (GA to Snowplow), modernized payment systems, launched a successful provider MVP, and implemented numerous features while contributing to an internal component library
+Led the analytics migration from Google Analytics to Snowplow and contributed to modernizing the payments system codebase.
+Developed an MVP for customer arrival experience, while contributing to the internal React component library. 
+Drove documentation initiatives and knowledge-sharing sessions to enhance team collaboration and delivered key features to strengthen platform reliability.

@@ -5,4 +5,5 @@ dateStart: "07/04/2022"
 dateEnd: "07/27/2022"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Developed reusable components for a NextJS project using styled-components and initiated planning for A/B testing 
+implementation using Configcat to enhance data-driven decision making in the product development process.

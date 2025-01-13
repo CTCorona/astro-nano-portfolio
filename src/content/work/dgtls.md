@@ -5,4 +5,5 @@ dateStart: "06/27/2021"
 dateEnd: "06/27/2022"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Built reusable components using TwigJS, SCSS and Tailwind, while implementing TypeScript for improved code reliability. 
+Developed and documented components in Storybook to maintain consistency across multiple projects and facilitate team collaboration.
