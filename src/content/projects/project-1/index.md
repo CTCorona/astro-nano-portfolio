@@ -10,7 +10,7 @@ repoURL: "https://github.com/CTCorona/lukulake-svelte"
 
 # Luku Lake - A Frontend Journey
 
-Taking a trip down memory lane, I originally built Luku Lake's landing page back in 2020 using __Vue 2__ and __Tailwind
+Taking a trip down memory lane, I originally built Luku Lake's landing page back in 2021 using __Vue 2__ and __Tailwind
 CSS__.
 In 2024, I decided to give it a fresh spin by rebuilding it from scratch with some of the newest tools in the frontend
 world.
