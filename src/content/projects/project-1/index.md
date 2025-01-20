@@ -6,60 +6,33 @@ demoURL: "https://lukulake.ctcc.dev"
 repoURL: "https://github.com/CTCorona/lukulake-svelte"
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
+![Luku Lake Desktop image](@/assets/images/projects/project-01-cover.png)
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+# Luku Lake - A Frontend Journey
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+Taking a trip down memory lane, I originally built Luku Lake's landing page back in 2020 using __Vue 2__ and __Tailwind
+CSS__.
+In 2024, I decided to give it a fresh spin by rebuilding it from scratch with some of the newest tools in the frontend
+world.
 
-## 📋 Features
+### The Revival (2024):
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
+I dove into **SvelteKit** and **Svelte 5** to rebuild this product landing page, which showcases Luku Lake's beautiful
+collection of children's natural footwear. The rebuild wasn't just about using new tech – it was about creating
+something smoother and more engaging:
 
-## 💯 Lighthouse score
-![Astro Sphere Lighthouse Score](/lighthouse.png)
+- Switched to **PandaCSS** for styling, which made the codebase cleaner and more maintainable
+- Added buttery-smooth scrolling with **Lenis**
+- Brought the page to life with **Motion** animations
+- Kept the original clean, minimalist design while making everything feel more responsive
 
-## 🕊️ Lightweight
-All pages under 100kb (including fonts)
+![Luku Lake Desktop image](@/assets/images/projects/project-01-image-section.png)
 
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
+**Cool Features:**
 
-## 📄 Configuration
+- Smooth transitions between sections that react to your scroll
+- Snappy image loading that doesn't slow things down
+- Interactive product showcases that catch your eye
 
-The blog posts on the demo serve as the documentation and configuration.
-
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
-
-## 🏛️ License
-
-MIT
+This project was a fun way to experiment with modern frontend tools while breathing new life into a previous design. It
+shows how fast web development evolves and how keeping up with new tech can lead to better user experiences.
